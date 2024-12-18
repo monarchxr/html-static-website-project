@@ -17,3 +17,9 @@ what I did ->
     1. Learn how to link external css
     2. header and nav are selectors?
     3. should i learn some basic properties?
+
+worked on project.html
+what I did->
+
+    1. There wasn't really much to do on here
+    2. Just made some basic list
