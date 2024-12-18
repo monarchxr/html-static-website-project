@@ -2,6 +2,7 @@
 
 worked on index.html
 what I did ->
+    
     1. Learn about SEO meta tags
     2. I keep forgetting about href stuff
     3. header class has a class inside called navbar
@@ -12,6 +13,7 @@ what I did ->
 
 worked on styles.css
 what I did ->
+    
     1. Learn how to link external css
     2. header and nav are selectors?
     3. should i learn some basic properties?
